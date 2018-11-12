@@ -8,7 +8,7 @@ public class GoodsMan {
 		camera.setPrice(400000);
 		camera.setCountStock(30);
 		camera.setCountSold(50);
-	  	
+		//camera.displayInfo();
 		
 		System.out.println(Goods.countGoods);
 		
@@ -17,7 +17,7 @@ public class GoodsMan {
 		tv.setPrice(50000);
 		tv.setCountStock(10);
 		tv.setCountSold(20);
-		
+		//tv.displayInfo();
 		
 	}
 
