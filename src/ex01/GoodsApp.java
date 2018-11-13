@@ -10,6 +10,8 @@ public class GoodsApp {
 		
 		camera.showinfo();
 	
+		
+		//숙제 cup 해보세요~!
 	
 	}
 }
