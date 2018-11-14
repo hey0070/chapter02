@@ -5,7 +5,7 @@ public class Goods {
     private int price;
     
    public void setName(String n) {
-	   name = n ;
+	   name = n;
    }
     
    public void setPrice(int p) {

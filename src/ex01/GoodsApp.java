@@ -12,7 +12,12 @@ public class GoodsApp {
 	
 		
 		//숙제 cup 해보세요~!
+		
+		Goods cup = new Goods();
+		cup.setName("컵");
+		cup.setPrice(3000);
 	
+		cup.showinfo();
 	}
 }
 
